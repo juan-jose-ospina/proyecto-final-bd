@@ -13,7 +13,7 @@ Sistema de base de datos relacional diseñado para gestionar proyectos, clientes
 **Docente:** Juliana Franco Villegas  
 **Programa:** Tecnología en Desarrollo de Software  
 **Institución:** Universidad Tecnológica de Pereira  
-**Fecha:** Septiembre 19, 2025
+**Fecha:** diciembre 3, 2025
 
 ## 🎯 Problemática
 
