@@ -116,36 +116,6 @@ El diseño cumple con las tres primeras formas normales:
 - **UPDATE**: Actualizar teléfonos y presupuestos
 - **DELETE**: Eliminar registros
 
-## 🚀 Instalación y Uso
-
-### Requisitos Previos
-- MySQL 5.7 o superior
-- Cliente MySQL (MySQL Workbench, phpMyAdmin, o CLI)
-
-### Pasos de Instalación
-
-1. Clonar el repositorio:
-```bash
-git clone https://github.com/usuario/proyecto-bd.git
-cd proyecto-bd
-```
-
-2. Crear la base de datos:
-```sql
-CREATE DATABASE empresa_proyectos;
-USE empresa_proyectos;
-```
-
-3. Ejecutar el script DDL para crear las tablas:
-```bash
-mysql -u usuario -p empresa_proyectos < scripts/create_tables.sql
-```
-
-4. Insertar datos de ejemplo:
-```bash
-mysql -u usuario -p empresa_proyectos < scripts/insert_data.sql
-```
-
 ## 📊 Modelo Entidad-Relación
 
 El proyecto incluye:
@@ -167,9 +137,6 @@ El proyecto incluye:
 - Ejemplos de consultas SQL
 - Diagramas E-R y relacionales
 
-## 🤝 Contribuciones
-
-Este es un proyecto académico. Para sugerencias o mejoras, por favor contactar a los autores.
 
 ## 📄 Licencia
 
